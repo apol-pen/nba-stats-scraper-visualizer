@@ -16,5 +16,6 @@ An interactive web dashboard that scrapes real-time NBA player leaderboards from
 
 ## 📷 Preview
 
-![Dashboard Screenshot](screenshot.png)  
+<img width="832" alt="Screenshot 2025-06-07 at 12 25 32 PM" src="https://github.com/user-attachments/assets/e67ab1fe-c9cb-4d4a-9bf5-e71d22ce7aea" />
+
 *Example of Top Scorers graph with player stats*
